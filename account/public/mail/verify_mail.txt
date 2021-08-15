@@ -1,0 +1,12 @@
+﻿<div style="font-family:Tahoma"><p>Chào bạn,</p>
+
+<p>Bạn hoặc ai đó đã đăng ký tài khoản&nbsp;<strong><%loginName%></strong> trên <strong><a href="https://103.89.90.30" target="_blank">Võ Lâm Cổ Long Online</a></strong>.&nbsp;Nếu bạn là người đăng ký, xin hãy nhấn vào đường link ở dưới đây để xác thực địa chỉ email của bạn.</p>
+
+<p><strong><a href="<%urlVerify%>" target="_blank" >XÁC THỰC EMAIL</a></strong></p>
+
+<p><em>Nếu không phải bạn đăng ký, hãy bỏ qua việc xác thực.</em></p>
+
+<p>Trân trọng,</p>
+
+<p><a href="http://103.89.90.30" target="_blank"><strong>Võ Lâm Cổ Long Online</strong></a><br>
+Email: <strong><a href="mailto:hotro@colongonline.com" target="_blank">hotro@colongonline.com</a></strong></p></div>

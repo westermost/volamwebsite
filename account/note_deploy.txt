@@ -1,0 +1,4 @@
+[Send mail]
+
+Open extension=php_openssl.dll
+

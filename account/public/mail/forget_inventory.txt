@@ -1,0 +1,12 @@
+<p>Chào bạn,</p>
+
+<p>Bạn hoặc ai đó đã sử dụng chức năng&nbsp;Quên Mật Khẩu Hòm Đồ cho tài khoản&nbsp;<strong><%username%></strong> trên&nbsp;<strong><a href="http://taikhoan.colong.vn" target="_blank">Cổ Long Online</a></strong>.&nbsp;</p>
+
+<p>Mật khẩu hòm đồ mới của bạn là: <strong><%newPass%></strong>
+
+<p><em>Vui lòng đổi mật khẩu trước khi sử dụng</em></p>
+
+<p>Trân trọng,</p>
+
+<p><a href="http://taikhoan.colong.vn" target="_blank"><strong>Cổ Long Online</strong></a><br>
+Email: <strong><a href="mailto:hotro.colong.vn@gmail.com" target="_blank">hotro.colong.vn@gmail.com</a></strong></p>

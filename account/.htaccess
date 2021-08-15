@@ -1,0 +1,14 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/?$ index.php/$1 [L]
+
+<Files "config.ini">
+Order Allow,Deny
+Deny from all
+</Files>
+<Files "settings.php">
+Order Allow,Deny
+Deny from all
+</Files>

@@ -1,0 +1,13 @@
+<div style="font-family:Tahoma"><p>Chào bạn,</p>
+<p>Chào bạn,</p>
+<p>Bạn đã sử dụng chức năng Mở Khóa Tài Khoản cho tài khoản&nbsp;<strong><%loginName%></strong> trên <strong><a href="http://volamcolong.tk" target="_blank">Võ Lâm Cổ Long Online</a></strong>.&nbsp;
+Xin hãy nhấn vào đường link ở dưới đây để xác thực và hoàn tất việc mở khóa.</p>
+
+<p><strong><a href="<%urlVerify%>" target="_blank" >XÁC THỰC EMAIL</a></strong></p>
+
+<p><em>Nếu không phải bạn là người sử dụng chức năng mở khóa, xin hãy bỏ qua email này.</em></p>
+
+<p>Trân trọng,</p>
+
+<p><a href="http://volamcolong.tk" target="_blank"><strong>Võ Lâm Cổ Long Online</strong></a><br>
+Email: <strong><a href="mailto:hotro.colong.vn@gmail.com" target="_blank">hotro.colong.vn@gmail.com</a></strong></p></div>

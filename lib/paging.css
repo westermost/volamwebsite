@@ -1,0 +1,102 @@
+.pagingWrapOut{
+	overflow:hidden;
+	clear:both;
+	padding: 10px 35px 10px;
+}
+.pagingWrapOut .bor{
+	overflow:hidden;
+	padding:0;
+}
+.pagingWrap{
+	position: relative;
+	padding-left: 50%;
+	display: block;
+	float: left;
+	background
+}
+.paging{
+	overflow: hidden;
+	padding:5px 30px;
+	clear:both;
+	margin:0 0 0 -50%;
+	display: inline-block;
+}
+.paging ul{
+	display:block;
+	overflow:hidden;
+	margin:0 auto;
+}
+.paging ul li{
+	float:left;
+	margin-right:4px;
+	color:#fff;
+	font-size:12px;
+	display:block;
+	border-radius:3px;
+}
+.paging ul li a{
+	color:#999;
+	font-size:12px;
+	padding:4px 10px;
+	display:block;
+	font-weight:bold;
+	border:1px solid #597996;
+}
+.paging ul li a:hover{
+	text-decoration:none;
+	color:#fff;
+	border:1px solid #ffae00;
+}
+.paging ul li span{
+	color:#fff;
+	font-size:12px;
+	padding:4px 10px;
+	font-weight:bold;
+	display:block;
+	background:#ff4e00;
+	border:1px solid #ffae00;
+}
+.paging ul li.first span,.paging ul li.prev span,.paging ul li.next span,.paging ul li.last span{
+	color:#999999;
+	font-size:12px;
+	padding:4px 10px;
+	background:#00092e;
+	opacity:.7;
+	filter: alpha(opacity = 70);
+	display:block;
+}
+.paging ul li.first a,.paging ul li.prev a,.paging ul li.next a,.paging ul li.last a{
+	color:#999999;
+	font-size:12px;
+	padding:4px 10px;
+	background:#00092e;
+	display:block;
+}
+.paging ul li.first a:hover,.paging ul li.prev a:hover,.paging ul li.next a:hover,.paging ul li.last a:hover{	
+	color:#fff;
+	border:1px solid #ffae00;
+}
+@media only screen and (max-width: 540px){
+	.pagingWrap{
+		padding-left: 45%;
+	}
+}
+@media only screen and (max-width: 520px){
+	.pagingWrapOut{
+		padding: 10px 15px 10px;
+	}
+	.paging ul{
+		/*width:80%;*/
+	}
+	.pagingWrap{
+		padding-left: 40%;
+	}
+}
+@media only screen and (max-width: 410px){
+	.pagingWrap{
+		padding-left: 30%;
+	}
+	.pagingWrapOut{
+		padding:0;
+	}
+}

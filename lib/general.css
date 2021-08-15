@@ -1,0 +1,84 @@
+*{
+	margin:0;
+	padding:0;
+	-webkit-margin:0;
+	-moz-margin:0;
+	-ms-margin:0;
+	-o-margin:0;
+}
+*:hover,*:focus,*:active {
+	outline:0px;
+	/* ie-dummy: expression(this.hideFocus=true); */
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	border-collapse:collapse;
+}
+
+body{
+	font-family:tahoma;
+	font-size:14px;
+	line-height:18px;
+}
+ul,ol{
+	list-style:none;
+}
+img{
+	border:none;
+	width:100%;
+	height:auto;
+}
+a{
+	outline:none;
+	text-decoration:none;
+	color:#6599FF;
+}
+a:hover{
+	text-decoration:underline;
+}
+table tr td{
+	padding:5px;
+	border-collapse: collapse;
+	border-spacing: 0;
+	border:1px solid;
+}
+div{
+	display:block;
+}
+strong, b{
+	font-weight:bold;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+div.center{
+	float:left;
+}
+div.block{
+	overflow:hidden;
+}
+.off,.off:hover{
+	opacity:.5;
+	filter: alpha(opacity=50);
+	cursor:default;
+	background-color: #333;
+}

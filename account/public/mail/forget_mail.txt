@@ -1,0 +1,12 @@
+﻿<p>Chào bạn,</p>
+
+<p>Bạn hoặc ai đó đã sử dụng chức năng&nbsp;Quên Mật Khẩu cho tài khoản&nbsp;<strong><%username%></strong> trên&nbsp;<strong><a href="http://taikhoan.colong.vn" target="_blank">Cổ Long Online</a></strong>.&nbsp;Xin hãy nhấn vào đường link ở dưới đây để xác thực và thiết lập lại mật khẩu mới.</p>
+
+<p><strong><a href="<%url%>" target="_blank">THIẾT LẬP MẬT KHẨU</a></strong></p>
+
+<p><em>Nếu không phải bạn là người sử dụng chức năng quên mật khẩu, xin hãy bỏ qua email này.</em></p>
+
+<p>Trân trọng,</p>
+
+<p><a href="http://taikhoan.colong.vn" target="_blank"><strong>Cổ Long Online</strong></a><br>
+Email: <strong><a href="mailto:hotro.colong.vn@gmail.com" target="_blank">hotro.colong.vn@gmail.com</a></strong></p>
